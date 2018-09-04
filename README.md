@@ -1,7 +1,8 @@
 # GoogleTranslate API PHP
 
 [![Version](https://img.shields.io/badge/stable-1.0.0-green.svg)](https://github.com/aalfiann/google-translate-api-php)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aalfiann/google-translate-api-php/blob/master/LICENSE.md)  
+[![Total Downloads](https://poser.pugx.org/aalfiann/google-translate-api-php/downloads)](https://packagist.org/packages/aalfiann/google-translate-api-php)
+[![License](https://poser.pugx.org/aalfiann/google-translate-api-php/license)](https://packagist.org/packages/aalfiann/google-translate-api-php)
 
 A PHP class library to make your own Google Translate API for free.
 
