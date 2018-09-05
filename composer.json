@@ -1,6 +1,7 @@
 {
     "name": "aalfiann/google-translate-api-php",
     "description": "A PHP class library to make your own Google Translate API for free.",
+    "keywords": ["google translate","api","translation"],
     "authors": [
         {
             "name": "M ABD AZIZ ALFIAN",
